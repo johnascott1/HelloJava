@@ -1,12 +1,13 @@
 package com.week1;
 
-/**
+/*
  * Created by ye4697go on 8/22/2017.
  */
 
 import static input.InputUtils.*;
 
-public class priceJava {
+import java.util.ArrayList;
+public class week1 {
 
     public static void main(String[] args) {
         String productName = stringInput("What is the name of the product?");
